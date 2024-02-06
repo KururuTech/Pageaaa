@@ -9,11 +9,7 @@ body {
 }
 
 header {
-        background: url('https://i.giphy.com/l41YvpiA9uMWw5AMU.webp') 
-        center center/cover no-repeat;
-        color: #fff;
-        text-align: center;
-        padding: 20px;
+    background-color: #333;
     }
 nav {
     background-color: #1c2b90;
